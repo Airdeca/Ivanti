@@ -4,7 +4,7 @@
 
 .SYNOPSIS
 
-  This script retrieves the latest modifications from the RES ONE Workspace database
+  This script retrieves the FileGuids of all User Settings from the Ivanti Workspace Control database
 
 
 
