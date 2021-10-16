@@ -1,6 +1,6 @@
 # Ivanti Repository
 
-Here I add the scripots that I create in my job as an Ivanti trainer.
+Here I add the scripts that I create in my job as an Ivanti trainer.
 
 They will mostly concewrn the former RES Software products.
 
